@@ -57,10 +57,12 @@ If a 1 is rolled the roll is a success, regardless of skill. If a 20 is rolled t
 ##### Modifiers
 
 The GM may use a Flat Modifier to account for compounding additional factors in a Skill Check. A Flat Modifier is a plus or minus value onto the roll. A Flat Modifier could be done to, for example, account for equipment use.
-`Attacking using your +2 Wooden Steak, against a Vampire wearing a +1 Tunic, you roll 1D20 -2 +1 Strength. Roll 1D20 -1 against your Strength Sub-Skill.`
+
+```Attacking using your +2 Wooden Steak, against a Vampire wearing a +1 Tunic, you roll 1D20 -2 +1 Strength. Roll 1D20 -1 against your Strength Sub-Skill.```
 
 The GM may use a Dice Modifier, Advantage or Disadvantage, to account for lucky or unlucky factors in a Skill Check. Advantage makes 2 rolls and selects the better. Disadvantage makes 2 rolls and selects the worse. A Dice Modifier could be done to, for example, account for a previous roll.
-`Having stumbled gaining a footing, your attack is wild, and undirected. roll 2D20, select the highest roll, then apply -1, and check against your Strength Sub-Skill`
+
+```Having stumbled gaining a footing, your attack is wild, and undirected. roll 2D20, select the highest roll, then apply -1, and check against your Strength Sub-Skill```
 
 ## The Setting
 
