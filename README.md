@@ -13,7 +13,9 @@ A Homeblunt group consists of 1 Game Master (GM) and 2 or more Players. The GM t
 
 ### Player Characters
 
-A Player Character is consisted of a Name, Gender, Age and a Setting dependant Race & Affiliation. They have an inventory which should contain a minimum set of items chosen by the GM to suit the Setting. Player Characters also have a set of Skills (Physicality, Intelligence, Proficiency and Charisma) which are determined by roll and Setting dependant Sub-Skills which take copy their base skill points from their related Skill, and then are customized to fit the character.
+A Player Character is consisted of a Name, Gender, Age and a Setting dependant Race & Affiliation. They have an inventory which should contain a minimum set of items chosen by the GM to suit the Setting. Player Characters also have a set of Skills (Physicality, Intelligence, Proficiency and Charisma) which are determined by roll and Setting dependant Sub-Skills which copy their base skill points from their related Skill, and then are customized to fit the character.
+
+Here an example character can be found:
 | Character Sheet | | | |
 |:---:|:---:|:---:|:---:|
 | **Skills** | Physicality | **Name** | Randy Badger |
@@ -46,7 +48,7 @@ To determine Sub-Skills, begin with the relevant Skill number. Select 4 skills t
 
 #### Skill Checks
 
-To resolve a skill check, allow the GM to select a relevant Skill or Sub-Skill. Roll a D20, if the roll is less than or equal to the Skill or Sub-Skill, the check is a success.
+To resolve a skill check, allow the GM to select a relevant Skill or Sub-Skill, or propose a convincing reason to use a relevant Skill or Sub-Skill. Roll a D20, if the roll is less than or equal to the Skill or Sub-Skill, the check is a success.
 
 ##### Critical
 
@@ -54,9 +56,11 @@ If a 1 is rolled the roll is a success, regardless of skill. If a 20 is rolled t
 
 ##### Modifiers
 
-The GM may add or remove a value from a skill roll to account for additional factors, such as preparedness, foolishness or environmental conditions.
+The GM may use a Flat Modifier to account for compounding additional factors in a Skill Check. A Flat Modifier is a plus or minus value onto the roll. A Flat Modifier could be done to, for example, account for equipment use.
+`Attacking using your +2 Wooden Steak, against a Vampire wearing a +1 Tunic, you roll 1D20 -2 +1 Strength. Roll 1D20 -1 against your Strength Sub-Skill.`
 
-The GM may also advantage or disadvantage a roll. Advantage, allowing the best of 2 rolls to be used. Disadvantage, forcing the worst of 2 rolls to be used.
+The GM may use a Dice Modifier, Advantage or Disadvantage, to account for lucky or unlucky factors in a Skill Check. Advantage makes 2 rolls and selects the better. Disadvantage makes 2 rolls and selects the worse. A Dice Modifier could be done to, for example, account for a previous roll.
+`Having stumbled gaining a footing, your attack is wild, and undirected. roll 2D20, select the highest roll, then apply -1, and check against your Strength Sub-Skill`
 
 ## The Setting
 
@@ -76,6 +80,6 @@ Your setting is recommended to have at least 4 affiliations. Affiliations can be
 
 ### Items
 
-Your setting is likely to contain any number of items, and its list is likely to grow even through small sessions. Items provide a means for mechanics to form, do you intend to pay attention to survival needs? then you will need food; do you intend to frequent combat? then you will need weapons; do you intend to cross vast distances? then you may need navigation tools, or  vehicles.
+Your setting is likely to contain any number of items, and its list is likely to grow even through small sessions. Items provide a means for mechanics to form, do you intend to pay attention to survival needs? then you will need food; do you intend to frequent combat? then you will need weapons; do you intend to cross vast distances? then you may need navigation tools, or vehicles.
 
 It helps to draw up a starting pool of items, the minimum requirement to survive in your setting, then to consider their rarity and price, whether there are better alternatives to these items, whether other items could expand the mechanics implied organically, and what the settings NPC's might carry instead.
