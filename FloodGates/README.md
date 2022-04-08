@@ -2,17 +2,9 @@
 
 It has been 600 years since the industrial revolution, 400 years since the great war, 250 years since the diaspera and 50 years since the Flood Gates.
 
-When the Star Gates were invented, and the Space Elevators build, the expectation was a new diaspera. A collossal wave of developing space industries looking for new systems to expand into.
+When the Star Gates were invented, and the Space Elevators built, the expectation was a new diaspera. A collossal wave of developing space industries looking for new systems to expand into. What we got instead was frontier-men escaping isolation, fleeing experimentation, fleeing rogue AI, fleeing alien plagues and invaders. The Gates did not bring us Stars, they brought us Floods.
 
-What we got instead was a flood of fleeing experimentation, fleeing rogue AI, fleeing alien plagues and invaders. The Gates did not bring us Stars, they brought us Floods, hence the name.
-
-The expanse has ground to a halt, the influx of cheap labour has seen the Apex, Miami and Deep Way Megacorps swell with wealth and power.
-
-The PA, Planetary Authorities, are now a uniform monolith, a testament to bureaucratic policing. While hopelessly obtuse, it is likely the only thing between the MegaCorps and literal slavery.
-
-The Maggots, Military Police, are a swarming organised presence, ensuring even the slightest conflict can become a blood bath. While the Military Proper in its Military Organic, Military Automatic and Military Exotic organizations are cleaning up the messes in the fringe systems, the Maggots are enforcing martial law on the core worlds, though it is unclear who or what they are the martial of.
-
-The Union, are a spreading organization, amongst the core worlds, they are selectively referred to, as a terrorist organization. The Union believe that expanse was a mistake, that until all beings are united on a single world, all worlds must burn until a single remains.
+The expanse has ground to a halt, the influx of cheap labour has seen the Apex, Miami and Deep Way Megacorps swell with wealth and power. The Planetary Authorities, are now a uniform monolith, a testament to bureaucratic policing. The Military Police, are a swarming organised presence, ensuring even the slightest conflict can become a blood bath. The Union, are gathering the misguided, and the desparate, preaching in the streets to burn the worlds until only 1 remains.
 
 ## Map
 
@@ -70,9 +62,47 @@ Races from the core worlds are the most welcomed, they are protected more by the
 
 #### Human
 
+**+1 Physicality**
+
+**+1 Intelligence**
+
+**+1 Proficiency**
+
+**+1 Charisma**
+
+
+Bipedal, fleshy, of a spindly yet versatile frame. Humans are about as diverse in role as they are in opinion. There are more humans in every organization than any other race, sometimes even despite their lack of suitability for the crowd, there is simply no avoiding them.
+
 #### Orc
 
+**+2 Strength**
+
+**+2 Proficiency**
+
+
+Averaging 7 foot 6 inches, hairless, ugly and smelly. Orcs have been with humans throughout the entire expanse. While not the strongest thinkers, they are natural professionals, craftsmen, engineers, businessmen, and ofcours, they are the ideal bureau drone. Never has a creature been so excited, as an Orc denying a stranger access to basic amenities, on their failure to declare the untaxed coffin owned by their great great ancestor.
+
 #### Groll
+
+**-4 Strength**
+
+**+4 Dexterity**
+
+**+2 Intelligence**
+
+**+2 Charisma**
+
+
+Crawling on all fours or on hind legs, 4 foot fuzzy dog / rat / sub-people. Since the industrial revolution the domesticated monster races have coelesced, once diverse, like goblins, gnolls, sprites & kobolds, they are now a small and selective genetic pool. An obedient and skiddish maintinence slave, the Groll. For the most part the Groll population are "pets", despite being more intelligent, and more compassionate than the families who own them.
+
+#### Upgrade
+
+**+2 Physicality**
+
+**+2 Intelligence**
+
+
+
 
 ### Outer Systems
 
